@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cafe",
+    "name": "Café La Llave",
+    "price": 4.15,
+    "description": "Café espresso · 284 g",
+    "category": "Víveres",
+    "image": "images/cafe-la-llave.jpg"
+  },
+  {
+    "id": "crisol",
+    "name": "Aceite puro de soya Crisol",
+    "price": 6.5,
+    "description": "Contenido: 1.89 L",
+    "category": "Víveres",
+    "image": "images/aceite-crisol.jpg"
+  },
+  {
+    "id": "leche",
+    "name": "Leche condensada La Guajirita",
+    "price": 1.6,
+    "description": "390 g / 13.8 oz",
+    "category": "Víveres",
+    "image": "images/leche-condensada.jpg"
+  },
+  {
+    "id": "choco",
+    "name": "Choco Drink",
+    "price": 2.0,
+    "description": "Golden Selection · 200 g",
+    "category": "Víveres",
+    "image": "images/choco-drink.jpg"
+  },
+  {
+    "id": "fritamax",
+    "name": "Aceite Fritamax",
+    "price": 3.4,
+    "description": "Aceite vegetal · 900 ml",
+    "category": "Víveres",
+    "image": "images/aceite-fritamax.jpg"
+  },
+  {
+    "id": "tomate",
+    "name": "Pasta de tomate Campo Stores",
+    "price": 1.5,
+    "description": "400 g",
+    "category": "Víveres",
+    "image": "images/pasta-tomate.jpg"
+  }
+]

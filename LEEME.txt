@@ -1,0 +1,12 @@
+DOÑA OLGA – COMPRAS PARA CUBA
+Versión inicial de demostración.
+
+Abrir index.html en un navegador para probar catálogo, carrito y formulario.
+
+IMPORTANTE:
+- Esta versión guarda altas, ediciones y eliminaciones en localStorage del navegador/dispositivo.
+- No es todavía un panel de administración compartido: los cambios no se publican automáticamente para todos los visitantes ni se sincronizan entre dispositivos.
+- El botón de WhatsApp prepara el pedido para +53 53204831.
+- Compra mínima: 100 USD (se permite exactamente 100 USD).
+- Provincia y municipio fijados: Sancti Spíritus / Yaguajay.
+- Para publicar una tienda real con administración privada sincronizada, hay que conectar una base de datos/backend gratuito (por ejemplo Supabase) y desplegarla en un hosting estático. No introducir datos sensibles en esta demostración.
